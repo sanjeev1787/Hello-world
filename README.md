@@ -1,3 +1,7 @@
+/**
+* create class for generating Bcrypt password to raw password
+*/
+
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 public class QuickPasswordEncodingGenerator {
